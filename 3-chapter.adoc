@@ -1,0 +1,210 @@
+:linkcss:
+:imagesdir: ./images
+:stylesdir: stylesheets/
+:stylesheet:  colony.css
+:data-uri:
+
+= UNIT – III
+
+== RACHANA LAKSHANAS
+
+=== 3.0	OBJECTIVES
+
+- This unit gives the knowledge of the characters of the svarajati and Varna and classification of
+varna.
+
+
+-  	Different composers who wrote svarajatis and varnas are dealth in this unit.
+3.1	SVARAJATI
+
+-  	Svarajatis are learnt after the Gita
+
+-  	They occupy a place between Geeta and Varna
+
+-  	Svarajatis are compositions that are sung with equal importance to Svara and Sahitya.
+
+-  	They are very melodic in nature.
+
+- They are neither simple nor elaborate like varnas. According to scholars, Svarajatis form the
+stepping – stone to the next important compositions, the Varnas.
+
+- Though basically Svarajatis come under the Abhyasa Gana, the three Svarajatis composed by
+Syama Sastry have great prominence and are sung as pradarsana rachanas in Music concerts
+
+-  	Medium tempo or madhyama kala is the speed
+
+- A  Svarajati  consists  of  a  pallavi,  anupallavi  and  charanas.  Sometimes  the  anupallavi  is
+dispensed with. All the charanas are set to different dhatus.
+
+-  	The theme of sahitya of Svarajatis may be devotional, heroic or amorous.
+
+- Scholars opine that the svarajati originated as a dance form with svaras, jatis and sahityas Ex.	Emayaladi in Huseni raga. But, later on composers like Syama Sastry deleted the element of jati in it and moulded the Svarajati into a Musical form.
+
+- Syama Sastry’s Svarajatis are brilliant compositions with number of technical beauties later	established as concert pieces.
+Ganakrama
+-  	The pallavi is sung first.
+-  	When there is an anupallavi, it is sung followed by Pallavi again.
+-  	Then the charanas are sung one after the other with Pallavi in between.
+Composers
+
+-  	Syama Sastry
+-  	Adiappah
+-  	Swati Tirunal
+-  	Sobhanadri
+-  	Merattur Venkatarama Sastri
+-  	Walajapet Krishnaswamy Bhagavatar
+-  	Chinni Krishna Dasa
+
+==== Some Popular Svarajatis
+
+[%header,format=csv]
+|===
+
+.No, Commposition, Raga, Talam, Composer
+1.,		Kamakshi,		Bhairaviraga,		Chaputala,		Syamasastry
+
+2.,Rave HimagirikumariTodiraga,Aditala,Syamasastry
+
+3.,Kamakshi,Yadukulakambhoji,Chaputala,Syamasastry
+
+4.,Sambasivayanave,Khamas,Aditala,Syamasastry
+
+|===
+
+=== 3.2	CHARACTERISTICS OF A VARNA
+
+- Varnas are scholarly compositions.
+- They are elaborate melodies replete with raga bhava. A varna contains within it not only the	raga ranjaka combinations, but also the visesha sancharas and the several apurva prayogas and datu prayogas that the raga admits of.
+
+Amongst the compositions of the technical group (abhyasa gana), the varna takes the first rank	in point of importance. Varnas are learnt and practiced with great care and assiduity by both vocalists and instrumentalists.
+Utility of Practising Tana varnas
+
+1.	The practice of varnas considerably helps one in the artistic, polished and stylish rendering of pieces. The shortage of words and the excess use of vowels in the sahitya as also their even distribution make it an ideal piece for the training of the voice.
+2.	To the instrumentalist, it develops his finger skill and improves his technique and style of	execution.
+3.	The ettugada svara passages serve as models for the development of kalpana svaras.
+4.	It helps one to render even the most difficult passages in concert pieces with accuracy and	polish.
+5.	The practice of tanavarnas in three degrees of speed strengthens his laya jnanam.
+6.	The profusion of vowels in tana varnas help one to render the gamakas in a smooth and	polished manner.
+The sahitya of a varna is comparatively short and insignificant and may relate to either bhakti (devotion) or sringara(love) or it may be in praise of a patron or be descriptive of the particular varna.
+The composition is aptly called Varna, since many of the ancient varnas (svarna - group patterns) of the arohi, avarohi, sthayi and sanchari types are gracefully inter woven into the texture of the dhatu.
+It requires great skill, technical capacity, creative faculty of a high order and detailed knowledge of the lakshanas of ragas to compose varnas. Composers of varnas are few and the number of all the available varnas does not exceed a few hundreds. Compared to this, We have thousands of kriti and kirtana compositions and more than a hundred composers of these types.
+Among the pieces belonging to the realm of abhyasagana, the tana varna is the last type to be practised before beginning concert forms like the kriti. Just as svarajatis are stepping stones to Tana varnas, tana varnas on stepping stores to kritis.
+
+=== 3.2.1	The constituent angas of a Varna are:-
+-  	The purvanga, comprising the pallavi, anupallavi and the muktayi svara.
+
+The uttaranga, or the ettukkadai comprising the charana and the charana svaras.
+
+-  	The purvanga and uttaranga are of almost equal length. They represent two balanced halves	of the composition.
+-  	The charana of a varna is also known by other names as ettugada pallavi, upa pallavi and chitta	pallavi (i.e. as opposed to the pallavi, forming a branch of manodharma sangita). The charana of a varna is analogous to a Pallavi since it is repeated at the conclusion of each ettugada svara.
+-  	The ettugada svara passages should progressively increase in length and complexity. The	first ettugada svara passage is usually of the length of one avarta and is characterized by a profusion of dirgha svaras. The length of each subsequent ettugada svara passage is either the same as the one preceding it, or longer. The last ettugada svara passage is the longest and may be of two or four avartas. Ettugada svaras of the length of three avartas are seen in a few	varnas.
+-  	Even if the order of the ettugada svaras of a Varna is changed and given, it is possible to re-	arrange them in the order fixed by the composer. Even in the case of ettugada svaras of an equal number of avartas, it is possible, to say which precedes which, taking into consideration the manner of development of the dhatu.
+Barring the Pancharatna: Sadhinchene – Arabhi raga of Tyagaraja, the varna is the only composition containing an upa (extra) pallavi. Some varnas have even two upa pallavis.
+
+=== 3.2.2	Classification
+Varnas are of two kinds:-
+
+-  	Tana varnas, which are the compositions played or sung at the commencement of a concert	and which are practiced by students of music after a course in the gitas and svara jatis.
+-  	In a tana varna, the pallavi, anupallavi and charana alone have sahitya. The other portions are	sung as solfa passages. Thus the tana Varna furnishes an instance of a composition.
+-  	Where in some parts are sung as solfeggios and the rest with the sahitya. On account of the	tana style of development, and the preponderance of tana jatis or phrases in this form, this composition is called tana Varna. The wide dispersal of the sahitya syllables is a characteristic feature of the tana Varna.
+-  	Pada varnas also called chauka varnas and ata varnas are the compositions heard in dance	concerts.
+The  entire  composition  herein  has  sahitya.  The  matu  is  characterized  by  less  of  vowel	extensions.
+-  	The music is in a somewhat slower tempo and is intended to give full scope to convey the	bhavas, Because of its affinity to the padam, both in point of tempo and the theme of the sahitya, this composition is called pada Varna.
+-  	Jatis (Solkattu) are met with in some pada varnas.
+Talas used
+-  	Tana varnas are found in Adi, Ata, Jhampa, Khanda jati Triputa, Chaturasra Ata and such	other long talas and not in short time-measures like Rupaka.
+-  	Short time-measures are an impediment to the free flow of tana ideas.
+-  	There are pada varnas in rupaka tala. Tana varnas present the svarupa to their ragas in a	nut-shell. The hrasva nyasas, dirgha nyasas and alpa nyasas admissible in a raga are clearly illustrated in tana varnas.
+-  	Tana varnas are intended for being practiced in trikala (three degrees of speed).
+-  	In concerts however, they are rendered usually in two degrees of speed.
+-  	Pada varnas are rendered only in the tempo in which they are set. Tana Varna is a concert form	whereas, pada varna is a dance form.
+Ragamalika varnas are compositions wherein the sections are in different ragas.
+-  	The Navaraga malika varna in the nine ragas:
+-  	Kedara (pallavi), Sankarabharana (anupallavi), Kalyani and Begada (muktayi svara), Kambhoji
+(charana), Yadukulakambhoji, Bilahari, Mohana and Sriraga (ettugada svaras);
+-  	The Dinaraga malika varna in the eight ragas:
+-  	Bilahari (pallavi), Dhanyasi (anupallavi), Madhyamavati (muktayi svara), Kalyani (charana),
+Purvakalyani, Kedaragaula, Mohana and Bhupala (ettugada svaras); and
+-  	The Ghanaraga malika varna in nine Ghana ragas:
+Nata  (pallavi),  Gaula  (anupallavi)  Varali  and Arabhi  (muktayi  svara)  Sriraga  (charana),	Narayanagaula,  Ritigaula,  Natakuranji  and  Kedaram  (ettugada  svaras)  are  well  known	compositions. There are also ragamalika varnas belonging to the category of pada varnas.
+-  	Because of the occurrence of certain sections as solfeggios, the reason for the non-inclusion of	the raga names in the sahityas of ragamalika varnas in obvious.
+Length
+-  	In a Varna, the length of the first ettugada svara is one avarta, if in Adi or Ata tala and four	avartas if in Rupaka tala.
+-  	The length of the last ettugada svara may be 2, 3 or 4 avartas if in Adi or Ata tala and 16	avataras if in Rupaka tala.
+-  	The number of avartas of the intermediate ettugada svaras may be, 1, 2, 3, or 4. The total	number of ettugada svaras in a varna may be 3, 4 or 5.
+
+=== 3.2.3	Ganakrama
+
+As for the gana karma of a varna, the pallavi, anupallavi and the muktayi svara are sung in their sequential order and concluded with the pallavi. Each avarta is sung twice. Halting on shadja or panchama or on some other suitable note for the rest of the avarta is made at apt places. The charana is next sung, followed by the ettugada svaras. At the conclusion of each ettugada svara passage, the charana is again sung. The ettugada svaras are not repeated. The sangatis if any, are sung only once in a varna. Since in the pada varna, the muktayi svara and the ettugada svaras have sahitya, the svara part of those sections is first sung, and then the corresponding sahitya part. For the svara part, nritta is performed and for the sahitya part, abhinaya.
+With the exception of Tyagaraja’s Pancharatnam in Arabhi raga, the varna is the only form wherein the original pallavi is ignored at a subsequent stage of the composition.
+From the point of view of musical construction Ragamalika varnas may be classified into:-
+
+( 1)	Those of the Tana Varna type and
+
+(2)	Those of the Pada Varna type.
+
+Ramaswamy Dikshitar has composed a beautiful svarasthana varna (sa ri ga da ni) in Todi raga, Adi tala, bristling with svarakshara beauties.
+Some chauka varnas hava sahitya for the pallavi, anupallavi and charana alone and the rest of the composition is sung as solfa passages, after the model of a tana varna: Ex. Rupamu juchi in Todi raga, Adi tala by Muthuswamy Dikshitar.
+
+Pada jati varna is a pada varna wherein jatis figure.
+
+=== 3.2.4   Anubandham
+-  	Formerly varnas had a supplementary section called the anubandham.
+-  	It consisted of a sahitya part and a solfa part. This sahitya to complete the idea in the sahitya	of the rest of the varna.
+-  	The sahitya beginning with the words chiru chamatalu constituted the anubandham for the	famous varna, Viriboni in Bhairavi raga.
+-  	Some anubandhas did not have a separate solfa passage and in such cases, the anubandha	was followed by the singing of the muktayi svara of the purvanga part and the original pallavi then sung and the composition concluded.
+-  	As the anubandha did not very much add to the musical excellence of the varna, it gradually	fell into desuetude. Nobody sings the anubandha section of the Viriboni varna at present.
+-  	Subsequent composers of varnas like Vina Kuppayyar did not bother about the inclusion of	the anubandha in their compositions.
+-  	Anubandhas figure in the tana varnas of Ramaswamy Dikshitar and Sonti Venkatasubbayyar.	-  	The anubandham may be compared to the coda of European music.
+-  	Since it disturbed the balanced length of the purvanga and uttaranga, it was gradually given	up. In later times, the necessity for an anubandha was obviated as the charana expressed a complete idea.
+
+=== 3.2.5	Tana Varna Composers
+-  	Pachchimiriyam Adiyappayya,
+-  	Sonti Venkatasubbayya,
+-  	Syama Sastri,
+-  	Vina Kuppayyar,
+-  	Pallavi Gopalayyar,
+-  	Svati Tirunal,
+-  	Manambuchavadi Venkatasubb ayyar,
+-  	Paramesvara Bhagavatar,
+-  	Annaswamy Sastri,
+-  	Tiruvarur Aiyasami,
+-  	Patnam Subrahmanya Ayyar,
+-  	Garbhapurivaru,
+-  	Tirunelveli Vengu Bhagavatar,
+-  	Kottavasal Venkatarama Ayyar,
+-  	Tiruvottiyur Tyagayyar,
+-  	Rudrapatnam Venkataramayya,
+-  	Shatkala Narasayya,
+-  	Ramnad Srinivasa Ayyangar,
+-  	Kuppuswami,
+-  	Fiddle Ponnuswami and
+-  	Veena kalahasti Venkatasami Rajah are some of the famous composers of tana varnas.
+
+=== 3.2.6	Pada Varna Composers
+
+-  	Govindasamayya and
+-  	Kuvanasamayya of Karvetnagar,
+-  	Ramaswamy Dikshitar,
+-  	Vadivel Nattuvanar,
+-  	Pallavi Seshayyar,
+-  	Ramaswamy Sivan,
+-  	Subbarama Dikshitar,
+-  	Mysore Sadasiva Rao
+-  	Kundrakkudi Krishnayyar
+
+=== 3.3	Self Assessment Questions
+
+1.	Write the charecters of a Svarajati
+
+
+2.	Write Tanavarna lakshanas
+
+
+3.	Write Pada Varna lakshanas
+
+
+4.	Name some Tanavarna composers
+
+
+5.	Name some Padavarna composers	 

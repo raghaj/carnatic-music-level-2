@@ -1,0 +1,213 @@
+= THEORY
+:linkcss:
+:imagesdir: ./images
+:stylesdir: stylesheets/
+:stylesheet:  colony.css
+:data-uri:
+
+== TECHNICAL TERMS
+
+=== 1.0 OBJECTIVE
+
+This unit deals with the different terms about music purpose of the fundamental knowledge	of technical terms.
+
+=== 1.1	Gandharvam
+
+Gandharvam  refers  to  Sangeetam  (music).  It’s  derived  from  Gandharva  ganam,  the  music	performed in heavens by Gandharvaas.
+
+=== 1.2	Bharatham
+
+Gandharvam (sangeetham) was brought to Earth (Bhoolokha) by Barathamuni. So the word
+Bharatham is attributed to music.
+
+In that, “Bha” stands for ‘Bhava”, “Ra” stands for “Raga” and “Tha” stands for “Tala”. These three are the most important aspects of our music. During the period of Bharatha and his before period also music had been called as “Gandharvam”. Gandharva vedam had been selected as sub vedam of Sama vedam. Bharatham had given the following definition for gandharvam of Natya shasthram.
+
+:icons: font
+[NOTE]
+====
+Gāndharva miti vignēyam
+
+Svara-thāla-padāśrayam
+====
+
+As per Bharatha muni, gandharva shastra is a mixer of svara tala padam. Svara means dhatu portion, padam means matu or saahithya (literature) portion.
+The music is also termed as the blended of sahithyas with the music formed with the music formed with svaras and permitted and governed by thaalas. Further, the blend of svara-pada-thaala as Gandharvam and is also called as music.
+
+:icons: font
+[NOTE]
+====
+Rāga svaraścha tālaścha
+Thribhi sangītha muchyathe
+====
+
+The extract from the text, it speaks that the composition of raga, svara and tala conforms and defines the meaning of music.
+
+=== 1.3	Kalpita Sangeetam
+It is prefixed. It is already composed and ready for being performed and taught. It is a source for Manodharma Sangeetam.
+All musical forms come under this category.
+
+=== 1.4	Manodharma Sangitam
+- a refined form of music
+- improvised music
+- It is created spontaneously by the performer.
+- It is mainly expressed through five branches namely Raglapana, tanam, Pallavi, Neraval and	Svarakalpana.
+- Of these branches Pallavi, Neraval and Svarakalpana are rendered with tala the other two	being performed without Tala.
+
+=== 1.5	Gamakam
+It is the collective term given to the various shakes, oscillations, ornaments and embellishments used in Indian Music.
+
+:icons: font
+[NOTE]
+====
+Svarasya kampō gamakah
+Śrōtruchittasukhavah
+====
+
+They are produced by the shake or movement of the svara which enhances the beauty of the raga and pleases the ear of the listener.
+
+=== 1.6	Varjya
+
+It is a variety of classification of raga.
+In this type a raga where in one, two or three svaras are	absent either in the arohana or in the avarohana or both.
+From the number of svaras present in the arohana and avarohana, janya ragas are classified under eight heads.
+
+The terms, sampurna (all the sapta svaras being represented), shadava (six svaras only being represented ie. one note being varja) and audava (five svaras only being represented ie. two notes being varja) are used to describe the arohana and avarohana in this connection. The tara sthayi shadja is excluded in calculating the number of svaras present in the arohana and avarohana of ragas. basically they may be categorised as
+
+- Arohana varja - if one or two notes are absent in the arohana it is known as Arohana varja
+- Avarohana varja - if one or two notes are absent in the avarohana it is known as Avarohana	varja
+- Ubhaya varja - if one or two notes are absent both in arohana and avarohana it is known as	Ubhaya varja
+- Besides the three, there are also other varieties
+- Krama varja
+- Vakra varja
+- In the krama varja variety the following eight kinds are known
+
+Audava is the earlier form of Audava
+
+They are
+
+1.   Shadava		:		sampurna
+2.   Audava		:		sampurna
+3.   Sampurna		:		shadava
+4.   Sampurna		:		audava
+5.   Shadava		:		shadava
+6.   Shadava		:		audava
+7.   Audava		:		shadava
+8.   Audava		:		audava
+
+[%header,format=csv]
+|===
+S.No,		Type,		Example
+1,Arohana varja, Saveri - Arabhi -  Bilahari
+2, Avarohana varja,Saramati -  Garudadhvani
+3,Ubhaya varja, Mohana -  Hamsadhvani - Madhyamavati)
+4,		Sampurna shadava,		Bhairavam
+5,Shadava sampoorna,Kambhoji
+6,Sampoorna Audava,Saramati
+7,Audava Sampoorna,Kedaragaula
+8,Shadava Shadava,Malayamarutam
+9,Shadava Audava,Kapinarayani
+10,Audava Shadava,Bauli
+11,Audava Audava,Mohana
+|===
+
+=== 1.7	Vakra
+
+Vakra means irregular
+
+Vakra ragas are those Janya ragas whose arohana or avarohana or both take a crooked or zig-zag course or which do not progress in a regular order are called vakra ragas.
+
+- Graphically represented, the arohana and avarohana of non-vakra ragas will be found to be	regularly ascending and descending straight lines or curves; but the graphs of vakra ragas will present indentations and reveal their tortuous character
+- In vakra ragas, during the course of the arohana or avarohana or both, a prior note will be	found to repeat itself. Instances of vakra ragas without the repetition of a prior note in the arohana are:
+
+1.	Kathanakutuhalam: s r m D n g p s
+2.	Mukhari: s r m p n d s
+3.	Nalinakanti: s g r m p n s
+4.	Panchama raga
+
+Vakra svara is that svara in the arohana or avarohana at which a change in the course takes place.
+
+It is the svara at which there is the interruption in the regular course of the arohana or the avarohana as the case may be.
+
+Vakrantya svara is the svara at which the vakratva or the change in the course ends and the original course is resumed. Thus in the arohana of Kathanakutuhalam, the ni is the vakra svara and ga is the vakrantya svara. Sometimes, the vakrantya svara may be the note next to the vakra svara; for example, dha in the arohana of Kuntalavarali: smpdnds (herein ni is the vakra svara and the dha following it is the vakrantya svara). Thus the range of vakratva may be a semi-tone as in Kuntalavarali of the interval of a Panchama as in Kathanakutuhalam.
+
+Another example is Sriraga: srmpns / snpdnpmrgrs. Here, the vakra svaras are pa and ri and the vakrantya svaras are ni and ga respectively.
+Saranga is an instance of a vakra raga wherein the vakrantya svara is the anya svara itself.
+
+=== 1.8	Upanga
+
+A derivative raga which takes only the notes figuring in the janaka raga ex; Mohana, Suddha	Saveri, Malahari etc
+
+=== 1.9	Bhashanga
+
+Bhashanga ragas are those Janya ragas which in addition to the notes occurring, takes one or two	foreign notes (anya svara) only in some sancharas to increase the beauty of the raga. Thus in a bhashanga raga both the varieties of a svara occur. The note resent in the Janaka raga is known as svakiya svara and the visitor note as anya svara.
+
+=== 1.10	Sampurna
+Ragas having a full complement of svaras (s r g m p d and n - both ascending and decending scales) without any absent.
+
+=== 1.11	Shadava
+Meaning 6, this refers to ragas that have only six notes in either ascending and decending scale, meaning that they are missing one svara compared to sampurna ragas.
+
+=== 1.12	Audava
+Audava meaning 5, this indicates ragas which use only 5 notes instead of 7 in either the ascending or decending scale, leaving out two notes. For example Hamsadhvani (s r g p n s in both sides ) is an audava - audava raga .
+
+=== 1.13	Dwadasa Svarasthanas
+Dwadasa Svarasthanas Out of the seven svaras, Shadjam (Sa) and Panchamam (Pa) are constant. They are called Achala Svaras. The remaining five svaras admit varieties and they are called Chala	Svaras. In combination, both Achala and Chala svaras yield 12 different musical notes and they are called Dwadhasa Svarasthanas.
+
+[%header,format=csv]
+|===
+S.No,		Svarasthana,		Mnemonics
+1,Shadjam,Sa
+2,Suddha Rishabam,Ra - R1
+3,Chatusruthi Rishabam,Ri - R2
+4,Sadharana Gandharam,Gi - G2
+5,Anthara Ghandaram,Gu - G3
+6,Suddha Madhyamam,Ma - M1
+7,Prathi Madhyamam,Mi - M2
+8,Panchamam,Pa
+9,Suddha Dhaivatham,Da - D1
+10,Chatusruthi Dhaivatham,Di - D2
+11,Kaisiki Nishadham,Ni - N2
+12,Kakali Nishadham,Nu - N3
+
+|===
+
+=== Shodasa Svarasthanas
+
+[%header,format=csv]
+|===
+
+S.No,		Svarasthana,		Mnemonics
+1,Shadjam	,		Sa
+2,Suddha Rishabam,Ra - R1
+3,		Chatusruthi Rishabam,		Ri - R2
+4,Shatsruti Rishabha,Ru - R3
+5,Suddha Gandharam,Ga - G1
+6,Sadharana Gandharam,Gi - G2
+7,Anthara Ghandaram,Gu - G3
+8,Suddha Madhyamam,Ma - M1
+9,Prathi Madhyamam..,Mi - M2
+10,Panchamam,Pa
+11,Suddha Dhaivatham,Da - D1
+12,Chatusruthi Dhaivatham,Di - D2
+13,Shatsruti Dhaivatham,Du - D
+14,Suddha Nishadam,Na - N1
+15,Kaisiki Nishadham,Ni - N2
+16,Kakali Nishadham,Nu - N3
+
+|===
+
+
+=== 1.14	Self - Assessment Questions
+1.	Define Gandharvam
+2.	What is Kalpita Sangeeta
+3.	Define Gamakam
+4.	Explain Audava
+5.	Write dwadasa svarasthanas
+
+=== Fill in the Blanks
+
+1.	________________ is a varja raga
+2.	________________ is a audava raga
+3.	Mohana is a ________________ raga
+4.	________________ is a arohana varja raga
+5.	panchamam is a ________________ svara

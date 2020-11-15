@@ -1,0 +1,393 @@
+:linkcss:
+:imagesdir: ./images
+:stylesdir: stylesheets/
+:stylesheet:  colony.css
+:data- uri:
+
+=== UNIT – II
+=== RAGA TRAYODASA LAKSHANAS AND	RAGA LAKSHANAS
+=== 2.0	OBJECTIVES
+
+-  This unit explains the thirteen characteristics of a raga
+
+- 	A listener can understand the basic lakshanas which a raga should possess by reading this
+unit	
+
+-  This unit also gives the knowledge of various raga lakshanas
+
+=== 2.1	RAGA TRAYODASA LAKSHANAS
+
+-  Earlier Bharata discussed dasavidha lakshanas for Jatis. Sarangadeva in his Sangita Ratnakara	discussed about 13 lakshanas for a raga the thirteen characteristics of a Raga, mentioned in the Sanskrit works on music which established the swaroopa or melodic entity of the Raga, are known as Raga Thrayodasa Lakshanas. They are -  Graha, Aamsa, Mandra, Thara, Nyasa, Apanyasa, Sanyasa, Vinyasa, Bhahutwa, Alpatwa, Sampoorna, Shadava, Audava.
+-  Graha The note on which the Raga is commenced. Starting note of a Sangathi or Item or	Ragam. There may be One, Two or even more Graha Svaras in a Ragam
+-  Amsa Jeeva svara of the raga, they are the life giving notes for a raga. The note which revealed	the melodic entity or the Swaroopa of the Raga; (Soul of the raga). To show the Swaroopa of the Raga in an Alapana or sangathi, this note is sung repeatedly, very often. This can be considered as the Main svara of the raga
+-  Tara (Higher octave)
+-  Mandra (Lower octave) Mandram and Tharam the lowest and highest notes respectively,	beyond which the Raga sancharas should not extend. Mandram shows the notes that are singable in the Mandra Stayi for the particular Raga. The svaras lower than that should not be	sung/performed. Similarly, Tara Svaram denotes the notes in Tara Stayi which are allowed in the raga.
+-  Nyasa svaras on which a phrase in a kriti in a certain raga may end. sa is universal nyasa svara	for any raga
+
+
+Apanyasa A Raga Alapana is done in different sections or parts or stages. Apanyasam is the	starting note of each section.
+
+- Alpatva rare usage of svara in certain raga
+- Bahutva the svara which is used many times in a raga
+- Shadava 6 svaras in both the Arohana and Avarohana
+- Audava 5 svaras in arohana and avarohana
+- Sanyasa Sanyasam is the ending note of each section in the raga alapana.
+- Vinyasa In each section of the Raga alapana, Vinyasa is the note used to show the Raga ‘Kalai’/	Chhaya or the essense of raga.
+- Antara marga (occasionally touch with another ragachhaya phrases or svaras at the time of a	particular raga is singing in a alapana). Graha, amsa, Nyasa Svaras are mandatory for the raga. If not specied Shadjam assumes the role of these three.. Hamsa/Jiva Svaram. There can be 1 or more Hamsa svaras in a raga. Nyasa Svaram Ending note of the raga; the note on which the Raga was concluded.
+
+=== 2.2	RAGA LAKSHANAS
+==== 2.2.1	KAMBHOJI
+
+- Janya raga, derived from the 28th melakarta, Hari Kambhoji.
+- Arohana	: s r g m p d ṡ
+- Avarohana   : ṡ n d p m g r s
+- Besides Shadja and Panchama the notes taken are Chatussruti Rishabha, Antara Gandhara,	Suddha Madhyama, Chatussruti Dhaivata, Kaisiki Nishada and Kakali Nishada.
+- This is a murchanakaraka janya raga. Its dha when taken as shadja, results in the raga Desya	todi s g m p d n ṡ – ṡ n d p m g r s.
+- Shadava – sampurna raga.
+- Varja raga; ni is varja in the arohana.
+- Ekanya – svara bhashanga raga; the foreign note kakali nishada, occurs in the pharases; s* n p d s.
+datu svara prayogas like (1) r p m g s (2) r m g s and (3) d g’ r’ ṡ are common.
+Phrases like (a) m g s (b) p d M (c) m g p d s (d) s r g S are ranjaka prayogas
+- P, d m g is a visesha prayoga and a rakti prayoga.
+- The notes ma, dha and ni (both the varieties) are ragachhaya svaras;
+- ga, ma pa and dha are nyasa svaras;
+- ga, pa and dha are the notes on which one can rest and develop alapana.
+- Sarva svara gamaka varika rakti raga.
+- Of the rakti ragas this is widely known and sung.
+- Well distributed. Can be sung at all times.
+- One of the major ragas and affords scope for elaborate alapana. Slokas, padyas and viruttams	can be sung in this raga.
+- All great composers and minor composers of note have composed in the raga
+- All types of Musical compositions are represented in this raga. Useful for singing sahityas	relating to varnana or description.
+- An auspicious raga.
+- Useful for being sung at the commencement of concerts. Used in operas and dance dramas.
+- Compositions begin on the notes: sa, ga, ma, pa, and dha. A raga wherein composition can	begin with a visesha sanchara – m g S and ṡ n* p in this case.
+- Tristhayi raga. The phrases; m g S and s n P appropriately enough adorns this raga as a	consonantal pair. The phrase s n P is sometimes sung to the Music of s s P. Though the foreign note is a jiva svara, it connot occur as a prolonged note.
+- Both Trisruti dha (5/3) and Chatussruti dha (27/16) are used in this raga. The former figures in	the phrase D; n n D and the latter in the phrase s n p D s r g.
+- The raga is mentioned in the Sangita Ratnakara, Sangita Makaranda and Sangita Samayasara.
+
+The names Kambodi and Kamboji are also found in some works.
+The pan Takkersi is equivalent to this raga.
+In Kathakali Music, this raga is known by the name Kamodari
+
+Some prominent Compositions:
+
+[%header,format=csv]
+|===
+Gita, Bhuvanatraya, Dhruva, Paidala Gurumurti Sastri
+Gita, Mandaradhara, Adi, Ancient
+Varna, Taruni ninnu basi,			Adi, Fiddle Ponnuswamy
+Varna, Inta chalamu, Ata, Pallavi Gopalayyar
+Varna, Sarasijanabha	,		Ata,Swati Tirunal
+Varna, Pankajakshipai, Adi, Maha Vaidyanatha Ayyar
+Kriti, Marimari nine, Adi, Tyagaraya
+
+Kriti, O Rangasayi, Adi, Tyagaraya
+Kriti, Evari mata, Adi, Tyagaraya
+Kriti, Ma janaki, Adi, Tyagaraya
+Kriti,Sri Raghuvaraprameya ,Adi ,Tyagaraya
+Kriti , Sri Subrahmanyaya Namaste ,Rupaka, Mutthswamy Dikshitar.
+|===
+
+=== 2.2.2	HAMSADHWANI
+
+- 29th Mela (Dhira Sankarabarana) Janyam
+- Arohanam: s r g p n ṡ
+Avarohanam: ṡ n p g r s
+- Svarasthanas -  Shadja , Chatusruti Rishabha, Antara gandhara, Panchama and kakali nishada.
+- Audava Ragam
+Varja Ragam -  m & d varja svaras
+Upanga Ragam
+- Gandhara and nishadas are Raga Chaya svaras
+- Sarva svara gamaka varika rakthi ragam
+- Veera Rasam
+- Janta and Dhatu proyogas bring beauty to this raga
+- Compositions start on s, g, p
+- Sarva svara Nyasa Ragam -  All svarams are nyasa svarams
+- Tri- Stayi ragam
+
+Some prominent Compositions:
+[%header,format=csv]
+|===
+Composition, Name, Composer
+Varna,JalajakshaAdiManambuchavadi Vengatasubiar
+Varna,Pagavaru,			Adi,PatnamSubrahmanyayyar
+Kriti,Vatapi,Adi,Muttuswamy Dikshitar
+Kriti,Sri Raghukula,Adi,Tyagaraja
+Kriti,Vinayaka Ninnu,			Adi,Veena Kuppiar
+Kriti,Manasu karugademo,Roopaka,PatnamSubrahmanyayyar
+Kriti,Chentacherchi	,		Adi,Tiruvottiyur Tyagayya
+|===
+
+==== 2.2.3	VASANTA
+
+- Janyam of 17th Melam, Suryakantham
+- Arohanam: s g m d n ṡ
+- Avarohanam: ṡ n d m g r s
+
+=== Svarasthanas:
+Shadjam,   Suddha   Rishabam,  Antara   Ghandaram,   Suddha   Madyamam,	Chatusruti Dhaivatham, Kakali Nishadam
+
+- Audava -  Shadava Ragam
+- Upanga Ragam
+- Auspecies Ragam. Ancient Ragam. Gamaka Varika Rakthi Ragam.
+- Tri- Staayi Ragam
+- Suitable for Padyams, Viruthams, Dance Dramas.
+- Varja Ragam. r, p absent in Arohanam, p varjam in Avarohanam.
+- Raga Chaya Svaras: g, m, d, n
+- 	Arohana	:		s r m p d ṡ
+- 	Avarohana   :		ṡ n d p m g r s
+- Nyasa Svaras: m, d
+
+=== Compositions start on: s, g, m
+
+[%header,format=csv]
+|===
+Jatisvaram, S N D, Chapu
+Varna,Ninnukori,Adi,Thachur Singarachari
+Kriti,Sitamma ma yamma,Roopaka,Tyagaraju
+Kriti,Ramachandram,Rooaka,Muttuswamy Dishitar
+Kriti,Paramapurusha,Adi,Swaati Tirunal
+Kriti,Etladorikitivo,Adi,Tyagaraju
+|===
+
+
+=== 2.2.4	SAVERI
+
+- Janyam of 15th Mela Mayamalavagowla.
+This ragam takes Shadja, Suddha Rishaba, Antara Gandhara, Suddha Madhyama, Panchama,	Suddha Dhaivata and Kakali Nishada.
+- Audava – Sampurna raga; Upanga raga.
+- In the Arohana, ga and ni are Varja.
+- ri, ma, dha are the Jiva Svaras
+- ma, pa, dha are the Nyasa svaras
+- sa, pa, dha (ga rarely) are the Graha svaras	- This is an ancient raga.
+- It expresses Karuna rasa
+- Can be sung at all times; more suitable for singing between 9 and 12 in the morning.
+- In the phrase s r m p D, Ekasruthi Dhaivatam occurs. In the phrase n n d m g r s , d m g r s ,	the absence of Panchamam adds beauty to this raga. The phrase s r g r g m g r s occurs rarely.
+- Datu svara phrases like s r s M, r m r D, p d p R are quite often used. In the following phrases s	r M g r – s r m G r – s r m p d p m g r, the svaram ri is used as Alpa Nyasa svaram. The similar Arohana Avarohana pattern in the 22nd Melam gives Salagabhairavi, in the 28th Melam gives Yadukulakambhoji, in the 29th Melam gives Arabhi. It is said that Pallavi Seshayyar sang this ragam for 8 hours.
+
+==== Compositions:
+
+[%header,format=csv]
+|===
+Geetham,		Janakasuta	,	Rupakam	,	Ancient
+Varnam, Sarasuda, Adi, Kothavasal Venkatram ayyar
+Kriti, Daridapuleka, Adi, Tyagaraja
+Kriti, Tulasi, Rupakam, Muthuswami  Dikshitar
+Kriti,Sri raja gopala, Adi, Syama Sastri
+Kriti, Sankari Samkuru, Rupakam, Tyaga raja
+Kriti,		Nane Muzhudhum,		Rupakam,		Muthu Tandavar
+Kriti, Magatva Mulla, Misrachapu, Arunchala Kavirayar,
+KritI,Adithalum,		Adi, Vedanayakam Pillai
+Kriti, En inda tamadamo, Chapu, Ambhujam Krishna
+Kriti, Mula Prakriti, Adi, Muttayya Bhagavatar
+Kriti, Purushottama Mam Pahi, Rupaka, Mysore Vasudeva chari
+|===
+
+==== 2.3	Self Assessment Questions
+
+1.	Write an essay on the raga trayodasa lakshanas
+
+
+2.	Write about the ragalakshanas of the following
+
+Vasanta, Kambhoji, Saveri
+This unit explains the thirteen characteristics of a raga
+
+	- 	A listener can understand the basic lakshanas which a raga should possess by reading this
+unit
+
+	- This unit also gives the knowledge of various raga lakshanas
+
+=== 2.1	RAGA TRAYODASA LAKSHANAS
+
+Earlier Bharata discussed dasavidha lakshanas for Jatis. Sarangadeva in his Sangita Ratnakara	discussed about 13 lakshanas for a raga the thirteen characteristics of a Raga, mentioned in the Sanskrit works on music which established the swaroopa or melodic entity of the Raga, are known as Raga Thrayodasa Lakshanas. They are -  Graha, Aamsa, Mandra, Thara, Nyasa, Apanyasa, Sanyasa, Vinyasa, Bhahutwa, Alpatwa, Sampoorna, Shadava, Audava.
+- Graha The note on which the Raga is commenced. Starting note of a Sangathi or Item or	Ragam. There may be One, Two or even more Graha Svaras in a Ragam
+- Amsa Jeeva svara of the raga, they are the life giving notes for a raga. The note which revealed	the melodic entity or the Swaroopa of the Raga; (Soul of the raga). To show the Swaroopa of the Raga in an Alapana or sangathi, this note is sung repeatedly, very often. This can be considered as the Main svara of the raga
+- Tara (Higher octave)
+- Mandra (Lower octave) Mandram and Tharam the lowest and highest notes respectively,	beyond which the Raga sancharas should not extend. Mandram shows the notes that are singable in the Mandra Stayi for the particular Raga. The svaras lower than that should not be	sung/performed. Similarly, Tara Svaram denotes the notes in Tara Stayi which are allowed in the raga.
+- Nyasa svaras on which a phrase in a kriti in a certain raga may end. sa is universal nyasa svara	for any raga
+
+Apanyasa A Raga Alapana is done in different sections or parts or stages. Apanyasam is the	starting note of each section.
+- Alpatva rare usage of svara in certain raga
+- Bahutva the svara which is used many times in a raga
+- Shadava 6 svaras in both the Arohana and Avarohana
+- Audava 5 svaras in arohana and avarohana
+- Sanyasa Sanyasam is the ending note of each section in the raga alapana.
+- Vinyasa In each section of the Raga alapana, Vinyasa is the note used to show the Raga ‘Kalai’/	Chhaya or the essense of raga.
+- Antara marga (occasionally touch with another ragachhaya phrases or svaras at the time of a	particular raga is singing in a alapana). Graha, amsa, Nyasa Svaras are mandatory for the raga. If not specied Shadjam assumes the role of these three.. Hamsa/Jiva Svaram. There can be 1 or more Hamsa svaras in a raga. Nyasa Svaram Ending note of the raga; the note on which the Raga was concluded.
+
+=== 2.2	RAGA LAKSHANAS
+
+=== 2.2.1	KAMBHOJI
+
+- Janya raga, derived from the 28th melakarta, Hari Kambhoji.
+- Arohana	: s r g m p d ṡ
+- Avarohana   : ṡ n d p m g r s
+- Besides Shadja and Panchama the notes taken are Chatussruti Rishabha, Antara Gandhara,	Suddha Madhyama, Chatussruti Dhaivata, Kaisiki Nishada and Kakali Nishada.
+- This is a murchanakaraka janya raga. Its dha when taken as shadja, results in the raga Desya	todi s g m p d n ṡ – ṡ n d p m g r s.
+- Shadava – sampurna raga.
+- Varja raga; ni is varja in the arohana.
+- Ekanya – svara bhashanga raga; the foreign note kakali nishada, occurs in the pharases; s* n p d s.
+datu svara prayogas like (1) r p m g s (2) r m g s and (3) d g’ r’ ṡ are common.
+Phrases like (a) m g s (b) p d M (c) m g p d s (d) s r g S are ranjaka prayogas
+- P, d m g is a visesha prayoga and a rakti prayoga.
+- The notes ma, dha and ni (both the varieties) are ragachhaya svaras;
+- ga, ma pa and dha are nyasa svaras;
+- ga, pa and dha are the notes on which one can rest and develop alapana.
+- Sarva svara gamaka varika rakti raga.
+- Of the rakti ragas this is widely known and sung.
+- Well distributed. Can be sung at all times.
+- One of the major ragas and affords scope for elaborate alapana. Slokas, padyas and viruttams	can be sung in this raga.
+- All great composers and minor composers of note have composed in the raga
+- All types of Musical compositions are represented in this raga. Useful for singing sahityas	relating to varnana or description.
+- An auspicious raga.
+- Useful for being sung at the commencement of concerts. Used in operas and dance dramas.
+- Compositions begin on the notes: sa, ga, ma, pa, and dha. A raga wherein composition can	begin with a visesha sanchara – m g S and ṡ n* p in this case.
+- Tristhayi raga. The phrases; m g S and s n P appropriately enough adorns this raga as a	consonantal pair. The phrase s n P is sometimes sung to the Music of s s P. Though the foreign note is a jiva svara, it connot occur as a prolonged note.
+- Both Trisruti dha (5/3) and Chatussruti dha (27/16) are used in this raga. The former figures in	the phrase D; n n D and the latter in the phrase s n p D s r g.
+- The raga is mentioned in the Sangita Ratnakara, Sangita Makaranda and Sangita Samayasara.
+The names Kambodi and Kamboji are also found in some works.
+The pan Takkersi is equivalent to this raga.
+
+In Kathakali Music, this raga is known by the name Kamodari
+
+Some prominent Compositions:
+
+[%header,format=csv]
+|===
+
+Composition, Description, Talam, Composer
+
+Gita,Bhuvanatraya,Dhruva,Paidala Gurumurti Sastri
+Gita,Mandaradhara,Adi,Ancient
+Varna,Taruni ninnu basi,			Adi,Fiddle Ponnuswamy
+Varna,Inta chalamu,Ata,Pallavi Gopalayyar
+Varna,Sarasijanabha	,		Ata,Swati Tirunal
+Varna,Pankajakshipai,Adi,Maha Vaidyanatha Ayyar
+Kriti,Marimari nine,Adi,Tyagaraya
+Kriti,O Rangasayi,Adi,Tyagaraya
+Kriti,Evari mata,Adi,Tyagaraya
+Kriti,Ma janaki,Adi,Tyagaraya
+Kriti,Sri Raghuvaraprameya,Adi,Tyagaraya
+Kriti,Sri Subrahmanyaya Namaste,Rupaka,Mutthswamy Dikshitar.
+|===
+
+=== 2.2.2	HAMSADHWANI
+
+- 29th Mela (Dhira Sankarabarana) Janyam
+- Arohanam: s r g p n ṡ
+Avarohanam: ṡ n p g r s
+- Svarasthanas -  Shadja , Chatusruti Rishabha, Antara gandhara, Panchama and kakali nishada.
+- Audava Ragam
+Varja Ragam -  m & d varja svaras
+Upanga Ragam
+- Gandhara and nishadas are Raga Chaya svaras
+- Sarva svara gamaka varika rakthi ragam
+- Veera Rasam
+- Janta and Dhatu proyogas bring beauty to this raga
+- Compositions start on s, g, p
+- Sarva svara Nyasa Ragam -  All svarams are nyasa svarams
+- Tri- Stayi ragam
+
+Some prominent Compositions:
+
+[%header,format=csv]
+|===
+Varna, Jalajaksha, Adi, Manambuchavadi Vengatasubiar
+Varna, Pagavaru,			Adi, PatnamSubrahmanyayyar
+Kriti, Vatapi, Adi, Muttuswamy Dikshitar
+Kriti, Sri Raghukula, Adi, Tyagaraja
+Kriti, Vinayaka Ninnu			Adi Veena Kuppiar
+Kriti, Manasu karugademo, Roopaka, PatnamSubrahmanyayyar
+Kriti, Chentacherchi,			Adi, Tiruvottiyur Tyagayya
+|===
+
+==== 2.2.3	VASANTA
+- Janyam of 17th Melam, Suryakantham
+- Arohanam: s g m d n ṡ
+- Avarohanam: ṡ n d m g r s
+
+Svarasthanas:
+    Shadjam,   Suddha   Rishabam,  Antara   Ghandaram,   Suddha   Madyamam,	Chatusruti Dhaivatham, Kakali Nishadam
+- Audava -  Shadava Ragam
+- Upanga Ragam
+- Auspecies Ragam. Ancient Ragam. Gamaka Varika Rakthi Ragam.
+- Tri- Staayi Ragam
+- Suitable for Padyams, Viruthams, Dance Dramas.
+- Varja Ragam. r, p absent in Arohanam, p varjam in Avarohanam.
+- Raga Chaya Svaras: g, m, d, n
+- 	Arohana	:		s r m p d ṡ
+- 	Avarohana   :		ṡ n d p m g r s
+- Nyasa Svaras: m, d
+
+==== - Compositions start on: s, g, m
+
+[%header,format=csv]
+|===
+Composition, Starts with, Talam,Composer
+Jatisvaram , S N D , Chapu,
+
+Varna, Ninnukori, Adi, Thachur Singarachari
+
+Kriti, Sitamma ma yamma, Roopaka, Tyagaraju
+
+Kriti, Ramachandram, Rooaka, Muttuswamy Dishitar
+
+Kriti, Paramapurusha, Adi, Swaati Tirunal
+
+Kriti, Etladorikitivo, Adi, Tyagaraju
+
+|===
+
+
+=== 2.2.4	SAVERI
+
+- Janyam of 15th Mela Mayamalavagowla.
+This ragam takes Shadja, Suddha Rishaba, Antara Gandhara, Suddha Madhyama, Panchama,	Suddha Dhaivata and Kakali Nishada.
+- Audava – Sampurna raga; Upanga raga.
+- In the Arohana, ga and ni are Varja.
+- ri, ma, dha are the Jiva Svaras
+- ma, pa, dha are the Nyasa svaras
+- sa, pa, dha (ga rarely) are the Graha svaras	- This is an ancient raga.
+- It expresses Karuna rasa
+- Can be sung at all times; more suitable for singing between 9 and 12 in the morning.
+- In the phrase s r m p D, Ekasruthi Dhaivatam occurs. In the phrase n n d m g r s , d m g r s ,	the absence of Panchamam adds beauty to this raga. The phrase s r g r g m g r s occurs rarely.
+- Datu svara phrases like s r s M, r m r D, p d p R are quite often used. In the following phrases s	r M g r – s r m G r – s r m p d p m g r, the svaram ri is used as Alpa Nyasa svaram. The similar Arohana Avarohana pattern in the 22nd Melam gives Salagabhairavi, in the 28th Melam gives Yadukulakambhoji, in the 29th Melam gives Arabhi. It is said that Pallavi Seshayyar sang this ragam for 8 hours.
+
+
+=== Compositions:
+
+[%header,format=csv]
+|===
+Geetham,		Janakasuta	,	Rupakam	,Ancient
+Varnam,Sarasuda,Adi,Kothavasal Venkatram ayyar
+Kriti,Daridapuleka,Adi,Tyagaraja
+Kriti,Tulasi,Rupakam,Muthuswami  Dikshitar
+
+Kriti,Sri raja gopala,Adi,Syama Sastri
+
+Kriti,
+Sankari Samkuru,
+Rupakam,
+Tyaga raja
+
+Kriti,		Nane Muzhudhum	,	Rupakam	,	Muthu Tandavar
+Kriti,Magatva Mulla,Misrachapu,Arunchala Kavirayar
+Kriti,Adithalum	,		Adi,Vedanayakam Pillai
+
+Kriti,En inda tamadamo,Chapu,Ambhujam Krishna
+
+Kriti,Mula Prakriti,Adi,Muttayya Bhagavatar
+
+Kriti,Purushottama Mam Pahi,Rupaka,Mysore Vasudeva chari
+
+|===
+
+=== 2.3	Self Assessment Questions
+
+1.	Write an essay on the raga trayodasa lakshanas
+
+
+2.	Write about the ragalakshanas of the following
+
+Vasanta, Kambhoji, Saveri

@@ -9,10 +9,10 @@
 
 === Theory
 
-1. link:./1-chapter.html[Unit 1 - Technical Terms]
-2. link:./2-chapter.html[Unit 2 - RAGA TRAYODASA LAKSHANAS AND	RAGA LAKSHANAS]
-3. link:./3-chapter.html[Unit 3 - RACHANA LAKSHANAS]
-4. link:./4-chapter.html[Unit 4- LIFE HISTORIES AND CONTRIBUTION]
+1. link:./1-chapter.adoc[Unit 1 - Technical Terms]
+2. link:./2-chapter.adoc[Unit 2 - RAGA TRAYODASA LAKSHANAS AND	RAGA LAKSHANAS]
+3. link:./3-chapter.adoc[Unit 3 - RACHANA LAKSHANAS]
+4. link:./4-chapter.adoc[Unit 4- LIFE HISTORIES AND CONTRIBUTION]
 
 
 === Practicals

@@ -17,4 +17,4 @@
 
 === Practicals
 
-1. link:./5-chapter.adoc[Practicals - Notation]
+1. link:./5-practicals.adoc[Practicals - Notation]

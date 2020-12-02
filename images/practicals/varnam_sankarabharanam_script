@@ -1,0 +1,72 @@
+Layout: varnam
+Tala: Adi2Kalai
+Heading: "Saami Ninne varnam - Sankarabharanam -  Veenai Kuppaiyer",bold,center,16
+Heading: "Source: Ganamrutha Varna Malika - A.S. Panchapakesa Iyer,center,italic,8
+Heading: "Ragam - Sankarabharanam (29th Mela Janyam)  Talam -	Adi" ,bold,center,16
+Heading: "Arohanam - S R2 G2 M1 P D2 N2 S	,    Avarahonam -  S N2 D2 P M1 G2 R2 S",bold,center,16
+
+Heading: "Pallavi:",bold,left
+S: S'  ,   ,   ,   N   S'  D   N   P   ,   M   P   G   ,   M   ,
+L: Sa  -   -   -   -   -   -   -   mi  -   -   -   ni  -   -   -
+S: P   ,   D   N   P   ,   D   N   S'  R'  S'  N   D   P   D   N
+L: nne -   -   -   -   -   ko  -   -   -   -   -   -   -   ri  -
+
+Heading: "",bold,left
+S: S'  ,   S'  D   P   M   P   ,   P   M   G   R   S   R   G   S'
+L: Cha -   la  -   -   -   ma  -   ru  -   -   -   lu  -   -   -
+S: N`  P`  D`  N`  S   ,   P   M   G   R   G   M   P   ,   D   N
+L: Ko  -   -   -   -   -   Na  -   -   -   di  -   ra  -   -   -
+
+Heading: ""
+Heading: "Anupallavi:",bold,left
+S: S   ,   D   D   P   M   D   P   ,   M   G   M   P   G   M   R
+L: Tha -   -   -   -   -   -   ma  -   -   sa  -   -   -   -   -
+S: G   M   P   D   D   P   M   P   D   N   S'  N   S'  ,   R'  G'
+L: mu  -   -   se  -   -   ya  -   -   -   -   -   ka  -   -   -
+S: M'  G'  R'  S'  S'  R'  S'  N   D   P   D   N   S'  R'  S'  ,
+L: da  -   -   ya  -   -   ju  -   -   -   da  -   -   -   ra  -
+S: S'  D   P   P   ,   M   G   R   S   M   G   M   P   ,   D   N
+L: -   -   -   ku  -   -   -   -   ma  -   -   -   ra  -   -   -
+
+
+Heading: ""
+Heading: "Mukthayi Swaram:",bold,left
+S: S'  R'  N   S'  D   N   S'  P   D   N   S'  D   P   M   P   D
+S: M   P   G   M   P   R   G   M   S   R   G   M   P   D   N   S'
+S: R'  G'  M'  G'  R'  G'  R'  S'  N   P   D   N   S'  ,   P   ,
+S: S'  N   D   P   ,   M   G   R   S   R   ,   G   M   P   D   N
+
+Heading: ""
+Heading: "Charanam:",bold,left
+S: P   ,   D   N   S'  S'  N   D   P   M   G   R   G   ,   M   ,
+L: Nee -   -   -   -   ra  -   -   ja  -   -   -   -   -   -   -
+S: P   ,   M   D   ,   P   S'  N   D   P   M   G   M   R   G   M
+L: kshi -   -   nee -   -   pai -   -   -   -   -   -   -   -   -
+
+Heading: ""
+Heading: "Chittai Swaras:",bold,left
+Heading: "(1)",left
+S: P   ,   ,   M   ,   ,   P   ,   ,   G   ,   M   ,   R   ,   G
+S: S   ,   ,   R   ,   ,   N`  ,   ,   S   ,   R   ,   G   ,   M
+
+Heading: "(san)",right
+Heading: "(2)",left
+S: P   D   ,   P   M   G   M   P   ,   M   G   M   R   G   ,   R
+S: S   N`  D`  N`  ,   P   D   N   S   R   ,   N`  S   R   G   M
+
+Heading: "(san)",right
+Heading: "(3)",left
+S: M   ,   D   P   M   G   M   ,   P   G   M   R   G   S   ,   N`
+S: S   M   G   R   S   N`  D`  N`  S   R   G   M   P   ,   G   M
+S: P   D   N   P   D   N   S'  R'  S'  G'  R'  ,   S'  N   D   N
+S: S'  ,   R'  N   D   P   ,   D   M   G   R   S   ,   R   G   M
+
+Heading: "(san)",right
+Heading: "(4)",left
+S: P   ,   M   P   G   M   R   G   S   ,   M   G   R   S   N`  P`
+S: D`  ,   N   S   R   S   N`  ,   S   R   G   M   P   ,   D   P
+S: S'  ,   N   R'  ,   S   M'  G'  R'  G'  S'  ,   N   P   D   N
+S: S'  ,   S'  ,   N   D   P   ,   M   G   R   S   ,   R   G   M
+
+Heading: "(san)",right
+Heading: "___________________",center

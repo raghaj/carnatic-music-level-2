@@ -1,0 +1,53 @@
+Layout: Gitam,FullWidth
+DefaultSpeed: 0
+Tala: Triputa
+SpeedMarks: Below
+PhraseEnds: Show, 30
+SwaraPrefs: 28
+LyricPrefs: 28
+Heading: "Lakshana Geetham - Hamsadwani (29th Mela Janya Ragam)",bold,center,28
+Heading: ""
+Heading: " Arohanam: S R2 G3 P N3 S Avarohanam: : S N3 P G3 R2 S  Talam: Tisra jati Triputa" ,left,22
+
+Heading: ""
+Heading: "Pallavi:",bold,left,28
+
+S: s , ,  | s , | , ,   || s r g   | r ,-    | s    n`   ||
+L: aa - -   - -   - -      re - re   da -     kshi na
+S: p` n` s | r- s | r g    || p` n` s    | r- s | r g ||
+l: pu ra ni  a -  - sa     dwa . ra  . ka   . .
+
+S: p g r-    |   g r | s n`- || s r r | s , | s , ||
+L: sri - ra     a ja  go o   pa . lu  re .  re .
+
+S: n` s ,   | r- g    | r s-   || g r s- |  n` s | r g ||
+L: cha tu -   sru thi  ri sha   Bha - -  an -    ta ra
+
+S: p g p  | g r   | s r-  || g r ,    | s n`    | s , ||
+L: ga . .   dha .   . ra    cha tu .   sru ti    dai .
+
+S: r  g ,- | s r     | g ,- || p g p-   | g r-  | p g ||
+L: va ta .  swa ra   ka .   ka li ni  sha .  . da
+
+S: n p- n   | p g-  | r g    || p n ,- | s' s'  | s' n  ||
+L: i ta ra  su .    . dha     a . .   ro .     . ha
+
+S: s' n s'-   | s' s' | s' n-  || p n s'   | p n  | s'  n- ||
+L: a va ro     . .     . ha     ma da .   va .  rji ta
+
+S: s' , s'   | s'  n | p g- || n , n   | p g   | r s ||
+L: sa . gra  ha .      . .    nya . .   sam .   . sa
+
+S: s	r r | s s     | r r-  || g p g     | r- s  | r g ||
+L: dhi . ra  shan ka   ra .    bha ra na    me .   . la
+
+S: r g- p     | g r  | s r   || g r s-    | n` s   | r s ||
+L: tri pu ta   yu .  . kta     ja ni ta   ham .    sa .
+
+S: r s n`    | p n` | s n`-  || s r g     | p n- | s' n ||
+L: dhwa ni .   ra .  . ga      ma va dha   a .   ra ya
+
+S: p g r   | s n-  | p` n` || s r g   | r r  | s , ||
+L: sri . .   ra .   . ma    na mo .   na .  mo .
+
+

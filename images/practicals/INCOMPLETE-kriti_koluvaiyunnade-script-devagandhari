@@ -1,0 +1,52 @@
+Layout: kriti
+Tala: Adi
+DefaultSpeed: 0
+SwaraPrefs: 26
+LyricPrefs: 26
+Language: English
+Heading: "Koluvai Yunnade  -  Muttuswami Dikshitar",bold,center,28
+Heading: "",bold,center,28
+Heading: "Ragam - Deva Gandhari (29th Mela Janyam)  Talam -	Adi" ,bold,left,28
+Heading: "Arohanam - S R2  M1 P D2  S	,    Avarahonam -  S N3 D2 N2 D P M1 , G3 R2 S",bold,left,28
+Heading: "Anya Swaram - Kaisiki Nishadam",bold,left,28
+Heading: "",bold,center,28
+Heading: "Pallavi:",bold,left,28
+Heading: "",bold,center,28
+
+
+S: "1)" ,   ( n d p , )  ( m g r ,) ( r s r m ) || ( g m , ) ( g r , r , ) || ( d d , p )  (m , p d , s' ) ||
+L:            ko lu vai -  yu - - -   naa - - -      de - -    - - - Ko -       - dan - da  pa - - - - -
+
+
+
+S: "2)" S   ,   R   G   R   , || R   G   ( m n d , )   P   , || ( p d s' n )    D   P   M   , || G , R S N` , ||
+L:      sri -   ga na  na    -  dham -   bha - ja -   re.  -         chi - - -    tta pa  ra   -    sa - kti yu tam -
+
+
+S: "3)" S   ,   R   G   R   , || R   G   ( m n d , )   P   S' || ( s g' r' m' )    ( g' r' s' n' )   D   P   || M , G  R S N`  ||
+L:      sri -   ga na  na    -  dham -   bha - ja -   re.  -       chi - - -        tta - pa  -     ra   -    sa - kti yu tam -
+
+
+Heading: "",bold,center,28
+Heading: "Anu Pallavi:",bold,left,28
+
+S:  G   ,   G   M   ,   M || P   ,   S'   N   S'   ,   || S'   N   D   N   D   P   ||   M   ,   G   R   S   N`   ||
+L:  Na  -   ga  ya  -  jna   su  -   tra  dha  ram -      na   -   da  la  ya  -        na  -   da  ka  ram  -
+
+S: S   ,   R   G   R   , || S   ,   ,   ,   ,   , ||
+L: sri. -   ga na na  -    dham  -  -    -   -  -
+
+Heading: "",bold,center,28
+Heading: "Charanam:",bold,left,28
+
+S: R'  ,   G   G   M   R    || R   G   S   R'  ,   , ||S'  ( s n` )   D`  P`  ,   G  || R   ,   N`  S   ,   , ||
+L: Aa  -   ga  ma  -   di      sa  -   nnu tam -   -   a     khi -    la  de  -   va    pu  -   ji  tam  - -
+
+Heading: "",bold,center,28
+Heading: "Charanam:",bold,left,28
+
+S: ( s'  ,   s'  ,    ) ( s'  n`  d   , ) ( n   d   p   m ) || ( g m p , d p )     ( d n s' n )   ( S' , ) ||  ( r' g' m' ) ( r' g' s' , ) ( n d p , ) || ( s' d s' n ) ( d p m g , r )   ( s n` ) ||
+L:  ra -    ga  -         dwe - sha -       di   ra hi ta       ra ma Ni - ya hru    da ya vi di    tam -   -     sri gu ru    gu ha sa -    mma di tam -   chi - nmu -    la ka ma la sti   tam -
+
+S: S   ,   R   G   R   , || S   ,   ,   ,   ,   , ||
+L: sri. -   ga na na  -    dham  -  -    -   -  -

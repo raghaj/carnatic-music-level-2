@@ -1,0 +1,38 @@
+Layout: kriti
+Tala: Eka
+PhraseEnds: Show,10
+DefaultSpeed: 1
+SwaraPrefs: 28
+LyricPrefs: 28
+Language: English
+Heading: "Maha Ganapathim Manasa  -  Muttuswami Dikshitar",bold,center,28
+Heading: " " ,left,22
+Heading: " Nata (36 melakartha ) Talam: Adi Talam " ,left,22
+Heading: " Arohanam: S R3 G3 M1 P D3 N3 S Avarohanam: : S N3 P M1 R3 S" ,left,22
+Heading: " " ,left,22
+
+S: "1"  M  P   ,   (   m g ) M  ( r s )  R   ,       ||  S   N` S  ,  S  ( s r ) G  M
+L:      Ma  ha -     ga -   na    pa -  thim -       ma na sa - sma   ra -   - mi
+
+
+S: "2"  M  P  ( n p )  ( m g- ) ( p m )   ( r s ) R ,     || S   N` S  ,  S  ( s r ) G  M
+L:      Ma ha   - -      ga -    na -      pa -  thim -      ma na sa - sma   ra -   - mi
+
+
+S: "3"  ( p n s' n ) ( p m- g m ) ( p m- r s )  R  ,  || S   N` S  ,  S  ( s r ) G  M
+L:        ma - ha -    - -  ga -    na - pa thim - -          ma na sa - sma   ra -   - mi
+
+
+S: "4"  ( p n )  S' R' ( s' n ) ( p m- ) ( r s )  R  ,  || S   N` S  ,  S  ( s r ) G  M
+L:        ma -  ha -    ga -    na -     pa -  thim  -          ma na sa - sma   ra -   - mi
+
+S:  ( p s' , n )  ( p , m- r )  ( g  m r s- ) ( n` s r g ) ||
+l:    va si - shta. va - ma de.   -  va - d     van - di ta
+
+Heading: " " ,left,22
+Heading: " Charanam " ,left,22
+Heading: " " ,left,22
+
+
+
+

@@ -4,8 +4,7 @@
 :stylesdir: stylesheets/
 :stylesheet:  colony.css
 :data-uri:
-
-= Table of Contents
+:toc:
 
 === Theory
 

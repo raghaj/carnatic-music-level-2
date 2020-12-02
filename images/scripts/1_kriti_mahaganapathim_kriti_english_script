@@ -1,0 +1,54 @@
+Layout: Kriti
+Tala: Eka
+PhraseEnds: Show,20
+DefaultSpeed: 2
+SwaraPrefs: 26
+LyricPrefs: 26
+Language: English
+Heading: " mahA gaNapatiM - nATa ",bold,center,28
+Heading: "",bold,center,28
+Heading: "rAgam naTa (36 mELa calanATa ) " ,bold,left,28
+Heading: "ArOhaNam - sa ri3 ga2 ma1 pa da3 ni2 sa  	,    avarOhaNam - sa ni2 pa ma1 ga2 ma1 ri3 sa  ",bold,left,28
+Heading: "",bold,center,28
+Heading: "Pallavi:",bold,left,28
+Heading: "",bold,center,28
+
+
+S: "1"  ma pa ; m g ma r s ri ; || sa ni` sa  ; sa  s   r ga ma ||
+l:      ma hA - ga - - Na pa - tiM  ma na  sa -  -  sma ra - mi
+
+S: "1"  ma pa , n p  m g  p m  r s ri s ||  sa ni` sa  ; sa  s   r ga ma ||
+l:      ma hA - - - ga - Na pa - - tiM -      ma na  sa -  -  sma ra - mi
+
+S: "1"  p n s' n  p m g m p m r s ri ; ||  sa ni` sa  ; sa  s   r ga ma ||
+l:      ma - hA - - - ga - - Na pa - - tiM    ma na  sa -  -  sma ra - mi
+
+S: "1"  p n  sa' ri' s' n p m   r s  ri ; ||  sa ni` sa  ; sa  s   r ga ma ||
+l:      ma - hA -   ga - Na -  pa - tiM -   ma na  sa -  -  sma ra - mi
+
+S:   p sa' n   pa m- r g  m r s-   n` s r g  ||
+l:   va si ShTha va ma dE - vA - di  vaM - di ta
+
+
+Heading: "",bold,center,28
+Heading: "caraNam:",bold,left,28
+Heading: "",bold,center,28
+
+S: "1"  ma pa ; pa sa' ni ni sa' || ; ri' sa' ri' sa' ni sa' ; ||
+l:      ma hA - dE -   va su taM    - gu ru   gu ha   nu taM -
+
+s:  s' r' ga' ma' ri' ; sa' ; p n  || sa' , n   pa  ma p   m g m ri sa ||
+l:  mA -  -   ra  kO  -  Ti - pra -   ka  - -   SaM -  SaM - - - taM -
+
+s: m pa- g m p-    s n` s-  r g ma- p ma ||
+l: ma hA  kA - vya  nA -  Ta kA - di pri yaM
+
+s: pa m p- ni p n-     s' r' s'- ni p ma  ||
+l: mU shi ka vA ha na   mO da ka  ha staM -
+
+Heading: "",bold,center,28
+Heading: "ciTTaswaraM:",bold,left,28
+Heading: "",bold,center,28
+
+s: pa p m- g m r s- r s n` s- p m g m || pa d n s'- r' g' m' m' r' s-  r' s 'n p m  ||
+s: s' n p m g m - n p m r g m- m r s  || ri' s' sa' n- pa m ga m- r s r g ||

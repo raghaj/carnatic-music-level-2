@@ -1,0 +1,50 @@
+Layout: Kriti
+Tala: Adi
+PhraseEnds: Show,20
+DefaultSpeed: 2
+SwaraPrefs: 26
+LyricPrefs: 26
+Language: English
+Heading: " BrOcEvArevarE - SrI ranjani ",bold,center,28
+Heading: "",bold,center,28
+Heading: "rAgam SrI ranjani (22 Kharahara priya ) " ,bold,left,28
+Heading: "ArOhaNam - sa ri2 ga2 ma1  da2 ni2 sa  	,    avarOhaNam - sa ni2 da2 ma1 ga2 ri2 sa  ",bold,left,28
+Heading: "",bold,center,28
+Heading: "Pallavi:",bold,left,28
+Heading: "",bold,center,28
+S: "1"  ma ; ga ri ga ;  ri ri  | sa ; ;    ni` |  sa ri ga ; ||
+l:      brO  - cE - vA -  re vA  rE  - - ni nnU vi nA -
+
+S: "2"  ma ; ga ri ga ;  ri ri  | sa ; ;    ri  |  ga ma da ; ||
+l:      brO  - cE - vA -  re vA  rE  - - ni nnU vi nA -
+
+S: "3"  ma ; ga ri ga ;  ri ri  | sa ; ;    ri  |  ga ma n d n d ||
+l:      brO  - cE - vA -  re va  rE  - - SrI      rA mA ne na   ru na
+
+
+S: "4"  ma ; ga ri ga ; ri ri | sa ; ; r g         |  m da n sa' n d ||
+l:      brO - cE  - vA -  re va    rE  -  sa ka      la lO  -  ka nA  ya ka
+
+S: "5"  ma ; ga ri ga ; ri ri | sa ; ; d n         | s' n d n sa' n d ||
+l:      brO  - cE - vA -  re va  rE  - - na ra  va ra nI - - sa ri
+
+Heading: "",bold,center,28
+Heading: "caraNaM:",bold,left,28
+Heading: "",bold,center,28
+
+
+S: "1"    ma ri  ga-        r g  ma    r g m-      da d        |   n  n  d n   sa'   ;  | s' n ni n d da ||
+l:      dE- vEM- drA-     du lu me   ccu Ta ku- laM ka-           da ya tO -  dA   -         na mo  sam gi- sa dA
+
+S: "2"  n d m ri g- ma r ga r- n` s r g             | ma  da ni s' r' |  g' ri' s'- ni da ||
+l:       mu ni- Sa  vam bu-  jU Da- veM  Ta- ca ni ka   la             mA rI- cA- du la      ha.  tam   bu. cE si
+
+
+S: "3"  ma r ga m da    n sa' r'- r' g' ma' | r' g' ma' g' r' sa' | ni da  sa' n d ||
+l:      vA li no kka kU la cE si- ra vi bA   lu ni- rA ju gA- gA   vin chi jU ci -
+
+s: "4" d sa' s'- g' r' ga'- ma' g' r'- g' m' g' r' | sa' ni' ga'- g' r' | n sa' ; n d ||
+l:     bha vA bdi- ta ru NO- pA  ya mu nE -  ra ni  tyA ga   rA ju ni   ka raM - bi di
+
+
+
